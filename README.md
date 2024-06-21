@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="style.css" />
 <script src="main.js"></script>
 
-```
-Yapay Zekayla İletişimde Dikkat Edilmesi Gerekenler
-```
+Bu sayfa "Yapay Zekayla Konuşmak - Yapay Zekayla İletişimde Dikkat Edilmesi Gerekenler" kitabında yer alan prompt örneklerinin yedeklenmesi amacıyla hazırlanmıştır.
+ 
 
 ## Prompt Örnekleri
 
