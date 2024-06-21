@@ -1,8 +1,10 @@
-# Yapay Zeka ile Konuşmak
+<link rel="stylesheet" href="style.css" />
+<script src="main.js"></script>
+
 
 ## Prompt Örnekleri
 
-[İdeal Prompt Yapısı](ideal.md)
+[İdeal Prompt Yapısı](prompts/ideal)
 
 
 [Küresel ısınma ve yenilenebilir enerji](https://chatgpt.com/share/e37fee97-eb58-40d9-a741-0b1e1c8a58cd)
