@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css" />
+<script src="main.js"></script>
+
 [https://chatgpt.com/share/b86527ec-d858-424e-9895-788643aec13e](https://chatgpt.com/share/b86527ec-d858-424e-9895-788643aec13e)
 
 # Prompt
@@ -6,7 +9,6 @@ Fotografi Çekmeye İlgi Duyuyorum. Başarılı bir fotoğraf çekimi için nele
 
 
 # ChatGPT'nin Cevabı
-
 
 Fotoğrafçılıkta başarılı bir çekim için dikkat etmeniz gereken bazı önemli noktalar şunlardır:
 

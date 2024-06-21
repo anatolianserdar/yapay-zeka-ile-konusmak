@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 a {
+    color:purple;
+    text-decoration: underline;
+}
+
+p a {
+    text-decoration: underline;
+    letter-spacing: 1px;
+    margin-left: 1rem;
+}

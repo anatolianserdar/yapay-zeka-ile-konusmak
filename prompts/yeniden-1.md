@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css" />
+<script src="main.js"></script>
+
 [https://chatgpt.com/share/fb638466-d5de-4904-898d-bdee7657a7fe](https://chatgpt.com/share/fb638466-d5de-4904-898d-bdee7657a7fe)
 
 # Prompt: 
