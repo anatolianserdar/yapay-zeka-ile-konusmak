@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="style.css" />
-<script src="main.js"></script>
+<link rel="stylesheet" href="../style.css" />
+<script src="../main.js"></script>
 
 [https://chatgpt.com/share/d8baa0bd-6a0b-4092-bbdc-69e44d925eb5](https://chatgpt.com/share/d8baa0bd-6a0b-4092-bbdc-69e44d925eb5)
 
