@@ -1,25 +1,33 @@
 <link rel="stylesheet" href="style.css" />
 <script src="main.js"></script>
 
+```
+Yapay Zekayla İletişimde Dikkat Edilmesi Gerekenler
+```
 
 ## Prompt Örnekleri
 
-[İdeal Prompt Yapısı](prompts/ideal)
+[İdeal prompt yapısı](prompts/ideal)
 
-[Zincirleme Yapıda Prompt 1](prompts/zincirleme-1)
+[Zincirleme yapıda prompt 1](prompts/zincirleme-1)
 
-[Zincirleme Yapıda Prompt 2](prompts/zincirleme-2)
+[Zincirleme yapıda prompt 2](prompts/zincirleme-2)
 
+[Düşünce ağacı yapısında prompt 1](prompts/dusunce-1)
 
+[Düşünce ağacı yapısında prompt 2](prompts/dusunce-2)
 
-[Küresel ısınma ve yenilenebilir enerji](https://chatgpt.com/share/e37fee97-eb58-40d9-a741-0b1e1c8a58cd)
+[Yapay zekanın prompt yeniden şekillendirme için yönlendirilmesi örneği 1](prompts/yeniden-1)
 
-[Evrenin zamanda rolü](https://chatgpt.com/share/3e3d9cf9-ad15-4805-8177-6c983d9ba365)
+[Yapay zekanın prompt yeniden şekillendirme için yönlendirilmesi örneği 2](prompts/yeniden-2)
 
-[Köy ve şehir hayatı karşılaştırması](https://chatgpt.com/share/0c59a727-57fd-4b66-be81-2de8418d79f0)
+[Kendinden Tutarlı Yönlendirmeli Prompt](prompts/kendinden)
 
-[Vegan yemek tarifi](https://chatgpt.com/share/d8baa0bd-6a0b-4092-bbdc-69e44d925eb5)
+[Rol yapma yapısında prompt](prompts/rol)
 
+[Karşılaştırmalı prompt](prompts/karsilastirmali)
+
+[Koşullu prompt](prompts/kosullu)
 
 ## E-posta Listesi
 
