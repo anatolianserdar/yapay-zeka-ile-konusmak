@@ -1,8 +1,17 @@
 <link rel="stylesheet" href="style.css" />
 <script src="main.js"></script>
 
-Bu sayfa "Yapay Zekayla Konuşmak - Yapay Zekayla İletişimde Dikkat Edilmesi Gerekenler" kitabında yer alan prompt örneklerinin yedeklenmesi amacıyla hazırlanmıştır.
- 
+Bu sayfa "Yapay Zekayla Konuşmak - Yapay Zekayla İletişimde Dikkat Edilmesi Gerekenler" kitabında yer alan prompt örneklerinin yedeklenmesi ve e-posta listesine erişim amacıyla hazırlanmıştır.
+
+
+## E-posta Listesi
+
+Yeni baskılarda yer alacak güncellemelerden sizleri haberdar etmek için bir e-posta listesi oluşturulmuştur.
+Eğer e-posta listesine kayıt olmak isterseniz aşağıdaki adresi ziyaret edebilirsiniz.
+
+[Eposta Kayıt Formu](https://forms.office.com/r/Hbby54WjxG)
+
+
 
 ## Prompt Örnekleri
 
@@ -28,9 +37,4 @@ Bu sayfa "Yapay Zekayla Konuşmak - Yapay Zekayla İletişimde Dikkat Edilmesi G
 
 [Koşullu prompt](prompts/kosullu)
 
-## E-posta Listesi
 
-Yeni baskılarda yer alacak güncellemelerden sizleri haberdar etmek için bir e-posta listesi oluşturulmuştur.
-Eğer e-posta listesine kayıt olmak isterseniz aşağıdaki adresi ziyaret edebilirsiniz.
-
-[Eposta Kayıt Formu](https://forms.office.com/r/Hbby54WjxG)
