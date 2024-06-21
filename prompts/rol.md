@@ -1,3 +1,5 @@
+(https://chatgpt.com/share/3e3d9cf9-ad15-4805-8177-6c983d9ba365)[https://chatgpt.com/share/3e3d9cf9-ad15-4805-8177-6c983d9ba365]
+
 # Prompt: 
 Kendini zaman kavramının yerine koy ve evrendeki rolünü meraklı bir çocuğa anlat.
 

@@ -2,6 +2,9 @@
 
 ## Prompt Örnekleri
 
+[İdeal Prompt Yapısı](ideal.md)
+
+
 [Küresel ısınma ve yenilenebilir enerji](https://chatgpt.com/share/e37fee97-eb58-40d9-a741-0b1e1c8a58cd)
 
 [Evrenin zamanda rolü](https://chatgpt.com/share/3e3d9cf9-ad15-4805-8177-6c983d9ba365)

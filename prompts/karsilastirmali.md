@@ -1,3 +1,5 @@
+(https://chatgpt.com/share/0c59a727-57fd-4b66-be81-2de8418d79f0)[https://chatgpt.com/share/0c59a727-57fd-4b66-be81-2de8418d79f0]
+
 # Prompt
 Köy ve şehir hayatının avantaj ve dezavantajları nelerdir?
 
