@@ -1,4 +1,4 @@
-(https://chatgpt.com/share/204ff8ba-899f-40e0-84be-3c458436181b)[https://chatgpt.com/share/204ff8ba-899f-40e0-84be-3c458436181b]
+[https://chatgpt.com/share/204ff8ba-899f-40e0-84be-3c458436181b](https://chatgpt.com/share/204ff8ba-899f-40e0-84be-3c458436181b)
 
 # Prompt
 

@@ -1,4 +1,4 @@
-(https://chatgpt.com/share/d8baa0bd-6a0b-4092-bbdc-69e44d925eb5)[https://chatgpt.com/share/d8baa0bd-6a0b-4092-bbdc-69e44d925eb5]
+[https://chatgpt.com/share/d8baa0bd-6a0b-4092-bbdc-69e44d925eb5](https://chatgpt.com/share/d8baa0bd-6a0b-4092-bbdc-69e44d925eb5)
 
 # Prompt: 
 Vegan misafirlerim için akşam yemeği düzenliyorum ancak vegan yemeklerinde deneyimim sınırlı. Elimde bol miktarda nohut, ıspanak ve kinoa var. Bu malzemeleri kullanarak kolay ve lezzetli bir vegan yemek tarifi önerebilir misin? Ayrıca, yemeğin hazırlık süresinin 30 dakikayı geçmemesini tercih ederim.

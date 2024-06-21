@@ -6,6 +6,11 @@
 
 [İdeal Prompt Yapısı](prompts/ideal)
 
+[Zincirleme Yapıda Prompt 1](prompts/zincirleme-1)
+
+[Zincirleme Yapıda Prompt 2](prompts/zincirleme-2)
+
+
 
 [Küresel ısınma ve yenilenebilir enerji](https://chatgpt.com/share/e37fee97-eb58-40d9-a741-0b1e1c8a58cd)
 
